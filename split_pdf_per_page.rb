@@ -2584,176 +2584,188 @@ file_names = [
 # "11th Std Textiles and Dress Designing English Medium.pdf"
 # ]
 
+# file_names = [
+#   # 11th Standard – Languages
+# "11th Std General Tamil _20.02.2020.pdf",
+# "11th Std Advance Tamil.pdf",
+
+# # 11th Standard – Mathematics
+# "11th Std Mathematics Vol-1 Tamil Medium.pdf",
+# "11th Std Mathematics Vol-2 Tamil Medium.pdf",
+# "11th Std Business Mathematics & Statistics Tamil Medium.pdf",
+# "11th Std Statistics Tamil Medium.pdf",
+
+# # 11th Standard – Science Group
+# "11th Std Physics Vol-1 Tamil Medium.pdf",
+# "11th Std Physics Vol-2 Tamil Medium.pdf",
+# "11th Std Chemistry TM Vol-1.pdf",
+# "11th Std Chemistry TM Vol-2.pdf",
+# "11th Std Biology-Botany Tamil Medium.pdf",
+# "11th Std Biology-Zoology Tamil Medium.pdf",
+# "11th Std Botany Tamil Medium.pdf",
+# "11th Std Zoology Tamil Medium.pdf",
+# "11th Std Bio-Chemistry Tamil Medium.pdf",
+# "11th Std Microbiology Tamil Medium.pdf",
+
+# # 11th Standard – Computer Science / IT
+# "11th Std Computer Science Tamil Medium.pdf",
+# "11th Std Computer Applications Tamil Medium.pdf",
+# "11th Std Computer Technology Tamil Medium.pdf",
+
+# # 11th Standard – Commerce / Accountancy
+# "11th Std Accountancy Tamil Medium.pdf",
+# "11th Std Commerce_Tamil Medium.pdf",
+# "11th Std - Auditing Practical Tamil Medium.pdf",
+# "11th Std Economics Tamil Medium.pdf",
+
+# # 11th Standard – Humanities / Social Sciences
+# "11th Std History Tamil Medium.pdf",
+# "11th Std Geography Tamil Medium.pdf",
+# "11th Std Political Science Tamil Medium.pdf",
+# "11th Std Ethics & Indian Culture Tamil Medium.pdf",
+
+# # 11th Standard – Agriculture
+# "11th Std Agricultural Science Tamil Medium.pdf",
+
+# # 11th Standard – Home Science / Nutrition
+# "11th Std Home Science Tamil Medium.pdf",
+# "11th Std Nutrition and Dietetics Tamil Medium.pdf",
+# "11th Std Food Service Management Tamil Medium.pdf",
+
+# # 11th Standard – Engineering / Technical Vocational
+# "11th Std - Basic Civil Engineering Tamil Medium 18.11.2020.pdf",
+# "11th Std - Basic Electrical Engineering TM 09.11.2020.pdf",
+# "11th Std - Basic Electronics Engineering TM 10.11.2020.pdf",
+# "11th Std - Basic Mechanical Engineering TM 09.11.2020.pdf",
+# "XI Std - Basic Automobile Engg TM Errata 06.11.2020.pdf",
+# "11th Std - OMS & Typography-Computer Applications TM 11.11.2020.pdf",
+
+# # 11th Standard – Nursing
+# "11th Std Nursing General Tamil Medium.pdf",
+# "11th Std Nursing Vocational Tamil Medium.pdf",
+
+# # 11th Standard – Textiles / Design
+# "11th Std Textiles and Dress Designing Tamil Medium.pdf",
+# "XI Std - Textile Technology TM Errata 24.12.2019.pdf",
+
+# # 12th Standard – Languages
+#   "12th_Std_General_English_optimised.pdf",
+#   "12th_Std_General_Tamil_Optimised.pdf",
+#   "12th_Std_Advance_Tamil_optimised.pdf",
+#   "12th_Std_Communicative_English_optimised.pdf",
+
+#   # 12th Standard – Mathematics
+#   "12th_Std_Mathematics_Vol_1_EM_optimised.pdf",
+#   "12th_Std_Mathematics_Vol_1_TM_optimised.pdf",
+#   "12th_Std_Mathematics_Vol_2_EM_optimised.pdf",
+#   "12th_Std_Mathematics_Vol_2_TM_optimised.pdf",
+
+#   # 12th Standard – Physics
+#   "12th_Std_Physics_Vol_1_EM_optimised.pdf",
+#   "12th_Std_Physics_Vol_1_TM_optimised.pdf",
+#   "12th_Std_Physics_Vol_2_EM_optimised.pdf",
+#   "12th_Std_Physics_Vol_2_TM_optimised.pdf",
+
+#   # 12th Standard – Chemistry
+#   "12th_Std_Chemistry_EM_Vol_1_Optimised.pdf",
+#   "12th_Std_Chemistry_TM_Vol_1_optimised.pdf",
+#   "12th_Std_Chemistry_EM_Vol_2_Optimised.pdf",
+#   "12th_Std_Chemistry_TM_Vol_2_optimised.pdf",
+
+#   # 12th Standard – Biology
+#   "12th_Std_Biology_Botany_EM_Optimised.pdf",
+#   "12th_Std_Biology_Botany_TM_optimised.pdf",
+#   "12th_Std_Biology_Zoology_EM_optimised.pdf",
+#   "12th_Std_Biology_Zoology_TM_optimised.pdf",
+#   "12th_Std_Botany_EM_optimised.pdf",
+#   "12th_Std_Botany_TM_optimised.pdf",
+#   "12th_Std_Zoology_EM_optimised.pdf",
+#   "12th_Std_Zoology_TM_optimised.pdf",
+#   "12th_Std_Bio_Chemistry_EM_Optimised.pdf",
+#   "12th_Std_Bio_Chemistry_TM_optimised.pdf",
+#   "12th_Std_Microbiology_EM_optimised.pdf",
+#   "12th_Std_Microbiology_TM_optimised.pdf",
+
+#   # 12th Standard – Commerce and Accountancy
+#   "12th_Std_Accountancy_EM_optimised.pdf",
+#   "12th_Std_Accountancy_TM_optimised.pdf",
+#   "12th_Std_Commerce_EM_optimised.pdf",
+#   "12th_Std_Commerce_TM_optimised.pdf",
+#   "12th_Std_Auditing_EM_optimised.pdf",
+#   "12th_Std_Auditing_TM_optimised.pdf",
+#   "12th_Std_Business_Mathematics_&_Statistics_EM_optimised.pdf",
+#   "12th_Std_Business_Mathematics_&_Statistics_TM_optimised.pdf",
+#   "12th_Std_Economics_EM_optimised.pdf",
+#   "12th_Std_Economics_TM_optimised.pdf",
+#   "12th_Std_Statistics_EM_optimised.pdf",
+#   "12th_Std_Statistics_TM_optimised.pdf",
+
+#   # 12th Standard – Computer Science and IT
+#   "12th_Std_Computer_Science_EM_optimised.pdf",
+#   "12th_Std_Computer_Science_TM_optimised.pdf",
+#   "12th_Std_Computer_Applications_EM_optimised.pdf",
+#   "12th_Std_Computer_Applications_TM_optimised.pdf",
+#   "12th Std Computer Applications English Medium.pdf",
+#   "12th Std Computer Applications Tamil Medium.pdf",
+#   "12th_Std_Computer_Technology_EM optimised.pdf",
+#   "12th_Std_Computer_Technology_TM_optimised.pdf",
+#   "12th Std Computer Technology English Medium.pdf",
+#   "12th Std Computer Technology Tamil Medium.pdf",
+
+#   # 12th Standard – Humanities and Social Sciences
+#   "12th_Std_History_EM_optimised.pdf",
+#   "12th_Std_History_TM_optimised.pdf",
+#   "12th Std Geography English Medium.pdf",
+#   "12th Std Geography Tamil Medium.pdf",
+#   "12th_Std_Political_Science_EM_optimised.pdf",
+#   "12th_Std_Political_Science_TM_optimised.pdf",
+#   "12th_Std_Ethics_and_Indian_Culture_optimised.pdf",
+
+#   # 12th Standard – Agriculture
+#   "12th_Std_Agricultural_Science_optimised.pdf",
+
+#   # 12th Standard – Home Science and Nutrition
+#   "12th_Std_Home_Science_EM_optimised.pdf",
+#   "12th_Std_Home_Science_TM_optimised.pdf",
+#   "12th_Std_Nutrition_and_Dietetics_EM_optimised.pdf",
+#   "12th_Std_Food_Service_Management_EM_optimised.pdf",
+#   "12th_Std_Food_Service_Management_TM_optimised.pdf",
+
+#   # 12th Standard – Engineering and Technical Vocational
+#   "12th_Std_Basic_Automobile_Engineering_EM_optimised.pdf",
+#   "12th_Std_Basic_Automobile_Engineering_TM_Optimised.pdf",
+#   "12th_Std_Basic_Civil_Engineering_EM_optimised.pdf",
+#   "12th_Std_Basic_Civil_Engineering_TM_optimised.pdf",
+#   "12th_Std_Basic_Electrical_Enginering_EM_optimised.pdf",
+#   "12th_Std_Basic_Electrical_Enginering_TM_Optimised.pdf",
+#   "12th_Std_Basic_Electronics_Engineering_TM_optimised.pdf",
+#   "12th_Std_Basic_Mechanical_Engineering_EM_optimised.pdf",
+#   "12th_Std_Basic_Mechanical_Engineering_TM_optimised.pdf",
+#   "12th_Std_OMS_&_Typography_Computer_Apps_EM_optimised.pdf",
+#   "12th_Std_OSS_&_Typography_Computer_Apps_TM_optimised.pdf",
+
+#   # 12th Standard – Nursing
+#   "12th_Std_General_Nursing_EM_Optimised.pdf",
+#   "12th_Std_Nursing_General_TM_optimised.pdf",
+#   "12th_Std_Nursing_Vocational_EM_optimised.pdf",
+#   "12th_Std_Nursing_Vocational_TM_optimised.pdf",
+
+#   # 12th Standard – Textiles and Dress Designing
+#   "12th_Std_Textiles_&_Dress_Designing_EM_optimised.pdf",
+#   "12th_Std_Textiles_&_Dress_Designing_TM_optimised.pdf",
+#   "12th Std Textiles & Dress Designing Tamil Medium.pdf"
+# ]
+
 file_names = [
-  # 11th Standard – Languages
-"11th Std General Tamil _20.02.2020.pdf",
-"11th Std Advance Tamil.pdf",
-
-# 11th Standard – Mathematics
-"11th Std Mathematics Vol-1 Tamil Medium.pdf",
-"11th Std Mathematics Vol-2 Tamil Medium.pdf",
-"11th Std Business Mathematics & Statistics Tamil Medium.pdf",
-"11th Std Statistics Tamil Medium.pdf",
-
-# 11th Standard – Science Group
-"11th Std Physics Vol-1 Tamil Medium.pdf",
-"11th Std Physics Vol-2 Tamil Medium.pdf",
-"11th Std Chemistry TM Vol-1.pdf",
-"11th Std Chemistry TM Vol-2.pdf",
-"11th Std Biology-Botany Tamil Medium.pdf",
-"11th Std Biology-Zoology Tamil Medium.pdf",
-"11th Std Botany Tamil Medium.pdf",
-"11th Std Zoology Tamil Medium.pdf",
-"11th Std Bio-Chemistry Tamil Medium.pdf",
-"11th Std Microbiology Tamil Medium.pdf",
-
-# 11th Standard – Computer Science / IT
-"11th Std Computer Science Tamil Medium.pdf",
-"11th Std Computer Applications Tamil Medium.pdf",
-"11th Std Computer Technology Tamil Medium.pdf",
-
-# 11th Standard – Commerce / Accountancy
-"11th Std Accountancy Tamil Medium.pdf",
-"11th Std Commerce_Tamil Medium.pdf",
-"11th Std - Auditing Practical Tamil Medium.pdf",
-"11th Std Economics Tamil Medium.pdf",
-
-# 11th Standard – Humanities / Social Sciences
-"11th Std History Tamil Medium.pdf",
-"11th Std Geography Tamil Medium.pdf",
-"11th Std Political Science Tamil Medium.pdf",
-"11th Std Ethics & Indian Culture Tamil Medium.pdf",
-
-# 11th Standard – Agriculture
-"11th Std Agricultural Science Tamil Medium.pdf",
-
-# 11th Standard – Home Science / Nutrition
-"11th Std Home Science Tamil Medium.pdf",
-"11th Std Nutrition and Dietetics Tamil Medium.pdf",
-"11th Std Food Service Management Tamil Medium.pdf",
-
-# 11th Standard – Engineering / Technical Vocational
-"11th Std - Basic Civil Engineering Tamil Medium 18.11.2020.pdf",
-"11th Std - Basic Electrical Engineering TM 09.11.2020.pdf",
-"11th Std - Basic Electronics Engineering TM 10.11.2020.pdf",
-"11th Std - Basic Mechanical Engineering TM 09.11.2020.pdf",
-"XI Std - Basic Automobile Engg TM Errata 06.11.2020.pdf",
-"11th Std - OMS & Typography-Computer Applications TM 11.11.2020.pdf",
-
-# 11th Standard – Nursing
-"11th Std Nursing General Tamil Medium.pdf",
-"11th Std Nursing Vocational Tamil Medium.pdf",
-
-# 11th Standard – Textiles / Design
-"11th Std Textiles and Dress Designing Tamil Medium.pdf",
-"XI Std - Textile Technology TM Errata 24.12.2019.pdf",
-
-# 12th Standard – Languages
-  "12th_Std_General_English_optimised.pdf",
-  "12th_Std_General_Tamil_Optimised.pdf",
-  "12th_Std_Advance_Tamil_optimised.pdf",
-  "12th_Std_Communicative_English_optimised.pdf",
-
-  # 12th Standard – Mathematics
-  "12th_Std_Mathematics_Vol_1_EM_optimised.pdf",
-  "12th_Std_Mathematics_Vol_1_TM_optimised.pdf",
-  "12th_Std_Mathematics_Vol_2_EM_optimised.pdf",
-  "12th_Std_Mathematics_Vol_2_TM_optimised.pdf",
-
-  # 12th Standard – Physics
-  "12th_Std_Physics_Vol_1_EM_optimised.pdf",
-  "12th_Std_Physics_Vol_1_TM_optimised.pdf",
-  "12th_Std_Physics_Vol_2_EM_optimised.pdf",
-  "12th_Std_Physics_Vol_2_TM_optimised.pdf",
-
-  # 12th Standard – Chemistry
-  "12th_Std_Chemistry_EM_Vol_1_Optimised.pdf",
-  "12th_Std_Chemistry_TM_Vol_1_optimised.pdf",
-  "12th_Std_Chemistry_EM_Vol_2_Optimised.pdf",
-  "12th_Std_Chemistry_TM_Vol_2_optimised.pdf",
-
-  # 12th Standard – Biology
-  "12th_Std_Biology_Botany_EM_Optimised.pdf",
-  "12th_Std_Biology_Botany_TM_optimised.pdf",
-  "12th_Std_Biology_Zoology_EM_optimised.pdf",
-  "12th_Std_Biology_Zoology_TM_optimised.pdf",
-  "12th_Std_Botany_EM_optimised.pdf",
-  "12th_Std_Botany_TM_optimised.pdf",
-  "12th_Std_Zoology_EM_optimised.pdf",
-  "12th_Std_Zoology_TM_optimised.pdf",
-  "12th_Std_Bio_Chemistry_EM_Optimised.pdf",
-  "12th_Std_Bio_Chemistry_TM_optimised.pdf",
-  "12th_Std_Microbiology_EM_optimised.pdf",
-  "12th_Std_Microbiology_TM_optimised.pdf",
-
-  # 12th Standard – Commerce and Accountancy
-  "12th_Std_Accountancy_EM_optimised.pdf",
-  "12th_Std_Accountancy_TM_optimised.pdf",
-  "12th_Std_Commerce_EM_optimised.pdf",
-  "12th_Std_Commerce_TM_optimised.pdf",
-  "12th_Std_Auditing_EM_optimised.pdf",
-  "12th_Std_Auditing_TM_optimised.pdf",
-  "12th_Std_Business_Mathematics_&_Statistics_EM_optimised.pdf",
-  "12th_Std_Business_Mathematics_&_Statistics_TM_optimised.pdf",
-  "12th_Std_Economics_EM_optimised.pdf",
-  "12th_Std_Economics_TM_optimised.pdf",
-  "12th_Std_Statistics_EM_optimised.pdf",
-  "12th_Std_Statistics_TM_optimised.pdf",
-
-  # 12th Standard – Computer Science and IT
-  "12th_Std_Computer_Science_EM_optimised.pdf",
-  "12th_Std_Computer_Science_TM_optimised.pdf",
-  "12th_Std_Computer_Applications_EM_optimised.pdf",
-  "12th_Std_Computer_Applications_TM_optimised.pdf",
-  "12th Std Computer Applications English Medium.pdf",
-  "12th Std Computer Applications Tamil Medium.pdf",
-  "12th_Std_Computer_Technology_EM optimised.pdf",
-  "12th_Std_Computer_Technology_TM_optimised.pdf",
-  "12th Std Computer Technology English Medium.pdf",
-  "12th Std Computer Technology Tamil Medium.pdf",
-
-  # 12th Standard – Humanities and Social Sciences
-  "12th_Std_History_EM_optimised.pdf",
-  "12th_Std_History_TM_optimised.pdf",
-  "12th Std Geography English Medium.pdf",
-  "12th Std Geography Tamil Medium.pdf",
-  "12th_Std_Political_Science_EM_optimised.pdf",
-  "12th_Std_Political_Science_TM_optimised.pdf",
-  "12th_Std_Ethics_and_Indian_Culture_optimised.pdf",
-
-  # 12th Standard – Agriculture
-  "12th_Std_Agricultural_Science_optimised.pdf",
-
-  # 12th Standard – Home Science and Nutrition
-  "12th_Std_Home_Science_EM_optimised.pdf",
-  "12th_Std_Home_Science_TM_optimised.pdf",
-  "12th_Std_Nutrition_and_Dietetics_EM_optimised.pdf",
-  "12th_Std_Food_Service_Management_EM_optimised.pdf",
-  "12th_Std_Food_Service_Management_TM_optimised.pdf",
-
-  # 12th Standard – Engineering and Technical Vocational
-  "12th_Std_Basic_Automobile_Engineering_EM_optimised.pdf",
-  "12th_Std_Basic_Automobile_Engineering_TM_Optimised.pdf",
-  "12th_Std_Basic_Civil_Engineering_EM_optimised.pdf",
-  "12th_Std_Basic_Civil_Engineering_TM_optimised.pdf",
-  "12th_Std_Basic_Electrical_Enginering_EM_optimised.pdf",
-  "12th_Std_Basic_Electrical_Enginering_TM_Optimised.pdf",
-  "12th_Std_Basic_Electronics_Engineering_TM_optimised.pdf",
-  "12th_Std_Basic_Mechanical_Engineering_EM_optimised.pdf",
-  "12th_Std_Basic_Mechanical_Engineering_TM_optimised.pdf",
-  "12th_Std_OMS_&_Typography_Computer_Apps_EM_optimised.pdf",
-  "12th_Std_OSS_&_Typography_Computer_Apps_TM_optimised.pdf",
-
-  # 12th Standard – Nursing
-  "12th_Std_General_Nursing_EM_Optimised.pdf",
-  "12th_Std_Nursing_General_TM_optimised.pdf",
-  "12th_Std_Nursing_Vocational_EM_optimised.pdf",
-  "12th_Std_Nursing_Vocational_TM_optimised.pdf",
-
-  # 12th Standard – Textiles and Dress Designing
-  "12th_Std_Textiles_&_Dress_Designing_EM_optimised.pdf",
-  "12th_Std_Textiles_&_Dress_Designing_TM_optimised.pdf",
-  "12th Std Textiles & Dress Designing Tamil Medium.pdf"
+  "A_Peoples_Tragedy_-_Orlando_Figes.pdf",
+  "Drones_Journey_to_Fifth_Generation_-_Kaushik_Kumar.pdf",
+  "Essays_on_Indian_Philosophy_-_Shri_Krishna_Saksena.pdf",
+  "EXCEL_2023__An_Illustrated_Step-by-Step_Guide_for_Beginners_-_Kyle_McAnthony.pdf",
+  "Excel_Your_All-in-One_Illustrated_Guide_-_Michael_Venturino.pdf",
+  "Indian_Philosophy_A-Z_-_Christopher_Bartley.pdf",
+  "Indian_Polity_8th_edition_-_M_Laxmikanth.pdf",
+  "In_the_service_of_the_republic_-_vijay_kelkar_and_ajay_shah.pdf",
+  "The_Ten_Trillion_Dream_-_Subhash_Chandra_Garg.pdf"
 ]
 
 
@@ -3111,7 +3123,7 @@ end
 # ============================================================
 
 file_names.each_slice(
-  (file_names.size / 122.0).ceil
+  (file_names.size / 4.0).ceil
 ).with_index(1) do |files, batch_number|
 
 
